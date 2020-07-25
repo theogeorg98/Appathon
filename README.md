@@ -1,2 +1,2 @@
-# Appathon
-Internet applications
+# Appathon-ntua 
+Covid-02
